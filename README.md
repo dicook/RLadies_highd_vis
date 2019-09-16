@@ -4,13 +4,14 @@ This is a revision of the useR! 2019 tutorial materials (https://github.com/dico
 The workshop is interactive, bring your laptop set up with the **latest versions of R (>3.5) and RStudio**, and these R packages:
 
 ```
-install.packages(c("knitr", "tidyverse", "here", "nullabor", "forecast", "readxl", "GGally", "broom", "plotly", "tourr", "spinifex", "geozoo", "mvtnorm", "randomForest", "RColorBrewer"))
+install.packages(c("knitr", "tidyverse", "here", "nullabor", "forecast", "readxl", "GGally", "broom", "plotly", "tourr", "spinifex", "geozoo", "mvtnorm", "randomForest", "RColorBrewer", "mapproj", "superheat", "naniar", "gganimate"))
 ```
 
 Also install:
 
 ```
 remotes::install_github("wmurphyrd/fiftystater")
+remotes::install_github("sa-lee/sneezy")
 ```
 
 If you have signed up for this tutorial it will be helpful to **download a copy of these materials ahead of time**, by downloading the `tutorial_highd_vis.zip` file above. Unzip the file into a project folder, to work through during the tutorial. It contains these files:
