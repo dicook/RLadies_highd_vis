@@ -11,7 +11,7 @@ Also install:
 
 ```
 remotes::install_github("wmurphyrd/fiftystater")
-remotes::install_github("sa-lee/sneezy")
+# remotes::install_github("sa-lee/sneezy") # not necessary for the workshop
 ```
 
 If you have signed up for this tutorial it will be helpful to **download a copy of these materials ahead of time**, by downloading the `tutorial_highd_vis.zip` file above. Unzip the file into a project folder, to work through during the tutorial. It contains these files:
