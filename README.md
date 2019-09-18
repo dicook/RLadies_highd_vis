@@ -1,6 +1,8 @@
 # RLadies Canberra 2019 tutorial on high-dimensional data visualisation
 This is a revision of the useR! 2019 tutorial materials (https://github.com/dicook/useR2019_highd_vis) for R Ladies Canberra hosted by CSIRO Data61
 
+Materials are at https://github.com/dicook/RLadies_highd_vis
+
 The workshop is interactive, bring your laptop set up with the **latest versions of R (>3.5) and RStudio**, and these R packages:
 
 ```
