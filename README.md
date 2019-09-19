@@ -1,7 +1,6 @@
 # RLadies Canberra 2019 tutorial on high-dimensional data visualisation
-This is a revision of the useR! 2019 tutorial materials (https://github.com/dicook/useR2019_highd_vis) for R Ladies Canberra hosted by CSIRO Data61
 
-Materials are at https://github.com/dicook/RLadies_highd_vis
+The address for this repo is https://github.com/dicook/RLadies_highd_vis. 
 
 The workshop is interactive, bring your laptop set up with the **latest versions of R (>3.5) and RStudio**, and these R packages:
 
@@ -51,3 +50,13 @@ packages will be used.
 Materials are designed for an intermediate audience, users who are familiar
 with R, basic visualisation and tidyverse tools, and who would like to
 improve their knowledge about data visualisation. 
+
+This is a revision of the useR! 2019 tutorial materials
+(https://github.com/dicook/useR2019_highd_vis) for R Ladies Canberra
+hosted by CSIRO Data61.
+
+You can also work through the (useR! 2019) interactive tutorial at your own pace by
+pointing your browser to:
+- https://ebsmonash.shinyapps.io/tutorial_highd_vis_part1/
+- https://ebsmonash.shinyapps.io/tutorial_highd_vis_part2/
+
